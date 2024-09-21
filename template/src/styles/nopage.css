@@ -1,0 +1,11 @@
+.nopage_container {
+    height: 90vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text404{
+    font-size: 3rem;
+}
