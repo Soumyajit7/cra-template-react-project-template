@@ -1,6 +1,6 @@
 {
   "package": {
-    "name": "my-cra-template",
+    "name": "cra-template-react-project-template",
     "version": "1.0.0",
     "dependencies": {}
   },
